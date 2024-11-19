@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pilots>
+  <pilot name="testNamePilot2">
+    <month year="2023" month="1">
+      <totalDuration>19 hours</totalDuration>
+      <exceeded80Hours>false</exceeded80Hours>
+      <exceeded36HoursWeek>false</exceeded36HoursWeek>
+      <exceeded8HoursDay>true</exceeded8HoursDay>
+    </month>
+  </pilot>
+  <pilot name="testNamePilot1">
+    <month year="2023" month="1">
+      <totalDuration>30 hours</totalDuration>
+      <exceeded80Hours>false</exceeded80Hours>
+      <exceeded36HoursWeek>false</exceeded36HoursWeek>
+      <exceeded8HoursDay>true</exceeded8HoursDay>
+    </month>
+  </pilot>
+</pilots>

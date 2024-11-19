@@ -1,0 +1,4 @@
+testType, testNumber, 2023-01-01 00:00:00, 2023-01-01 10:00:00, testDepartureAirport, testArrivalAirport, testNamePilot1, testNamePilot2
+testType2, testNumber2, 2023-01-02 00:00:00, 2023-01-02 09:00:00, testDepartureAirport2, testArrivalAirport2, testNamePilot1
+testType3, testNumber3, 2023-01-03 00:00:00, 2023-01-03 11:00:00, testDepartureAirport3, testArrivalAirport3, testNamePilot1
+testType4, testNumber4, 2023-01-04 00:00:00, 2023-01-04 09:30:00, testDepartureAirport4, testArrivalAirport4, testNamePilot2
